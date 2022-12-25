@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WinstonWolf007
-- 👀 I’m interested in algorithmes creation
+- 👀 I’m interested in video game creation
 
 <!---
 WinstonWolf007/WinstonWolf007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
