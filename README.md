@@ -1,7 +1,37 @@
-- 👋 Hi, I’m @WinstonWolf007
-- 👀 I’m interested in video game creation
+# Hi, I'm WinstonWolf007! 👋
 
-<!---
-WinstonWolf007/WinstonWolf007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🚀 About Me
+I'm a video game developer...
+
+
+## 🛠 Skills
+**JavaScript** : Phaser3, nodeJS
+
+**Python** : Pygame
+
+**Html/Css** : 
+
+**SQL** : 
+
+**Linux** : 
+
+```
+API
+Web socket
+Data base
+```
+
+
+## 💪 About me
+👩‍💻 I'm currently working on **Monster Shooter 2D**
+
+🧠 I'm currently learning : **Raycasting**
+
+😄 Pronouns : **he/him**
+
+⚡️ Fun fact : **I am self-taught**
+
+
+## 🔗 Links
+[![youtube](https://cdn.icon-icons.com/icons2/2530/PNG/512/youtube_button_icon_151827.png)](https://www.youtube.com/@WinstonWolf007)
