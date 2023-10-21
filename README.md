@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I'm a video game developer...
+I'm a developper...
 
 
 ## 🛠 Skills
@@ -24,9 +24,9 @@ Data base
 
 
 ## 💪 About me
-👩‍💻 I'm currently working on **Monster Shooter 2D**
+👩‍💻 I'm currently working on **React App**
 
-🧠 I'm currently learning : **Raycasting**
+🧠 I'm currently learning : **React.js**
 
 😄 Pronouns : **he/him**
 
