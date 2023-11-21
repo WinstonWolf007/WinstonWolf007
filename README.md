@@ -26,7 +26,7 @@ Frontend Website
 ## 💪 About me
 👩‍💻 I'm currently working on **Isometric video game**
 
-🧠 I'm currently learning : **React.js**
+🧠 I'm currently learning : **pixi.js**
 
 😄 Pronouns : **he/him**
 
