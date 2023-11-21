@@ -2,29 +2,29 @@
 
 
 ## 🚀 About Me
-I'm a developper...
+I'm a dev...
 
 
 ## 🛠 Skills
-**JavaScript** : Phaser3, nodeJS
-
-**Python** : Pygame
-
-**Html/Css** : 
-
-**SQL** : 
-
-**Linux** : 
+**JavaScript**
+**TypeScript**
+**Python**
+**HTML**
+**CSS**
+**SQL**
 
 ```
 API
-Web socket
-Data base
+Web Socket
+Database
+Video Game
+Backend Website
+Frontend Website
 ```
 
 
 ## 💪 About me
-👩‍💻 I'm currently working on **React App**
+👩‍💻 I'm currently working on **Isometric video game**
 
 🧠 I'm currently learning : **React.js**
 
