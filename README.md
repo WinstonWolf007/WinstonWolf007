@@ -12,6 +12,7 @@ I'm a dev...
 **HTML**
 **CSS**
 **SQL**
+**KOTLIN**
 
 ```
 API
@@ -20,11 +21,20 @@ Database
 Video Game
 Backend Website
 Frontend Website
+
+Flask
+Pygame
+
+andorid studio
+
+Phaser3
+Pixi.js
+three.js
 ```
 
 
 ## 💪 About me
-👩‍💻 I'm currently working on **Isometric video game**
+👩‍💻 I'm currently working on **3d video game**
 
 🧠 I'm currently learning : **pixi.js**
 
