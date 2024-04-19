@@ -15,28 +15,23 @@ I'm a dev...
 **KOTLIN**
 
 ```
+Android Application
+
+3d video game in website
+2d video game in website
+
+frontend website
+backend website
+
 API
-Web Socket
-Database
-Video Game
-Backend Website
-Frontend Website
-
-Flask
-Pygame
-
-andorid studio
-
-Phaser3
-Pixi.js
-three.js
+WebSocket
 ```
 
 
 ## 💪 About me
 👩‍💻 I'm currently working on **3d video game**
 
-🧠 I'm currently learning : **pixi.js**
+🧠 I'm currently learning : **three.js**
 
 😄 Pronouns : **he/him**
 
@@ -44,4 +39,4 @@ three.js
 
 
 ## 🔗 Links
-[![youtube](https://cdn.icon-icons.com/icons2/2530/PNG/512/youtube_button_icon_151827.png)](https://www.youtube.com/@WinstonWolf007)
+[![youtube](https://cdn.icon-icons.com/icons2/2530/PNG/512/youtube_button_icon_151827.png)](https://www.youtube.com/@Voktex)
